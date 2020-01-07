@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music Quiz</string>
+    <string name="question_1_10">Question: 1/10</string>
+</resources>
